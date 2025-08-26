@@ -1,0 +1,8 @@
+;; Backup of GuildManagementDAO.clar before scaffold replace
+;; Original content saved for iterative restoration.
+
+(define-fungible-token guild-token)
+
+;; Note: This is a backup placeholder. Original file contains Phase 1 work
+;; (profit claiming, staking, governance) that failed to compile due to
+;; match/optional parsing issues. Use this file to restore if needed.
