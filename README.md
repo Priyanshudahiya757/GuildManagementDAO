@@ -54,8 +54,9 @@ We envision a future where every gaming guild operates as a decentralized autono
 
 ## Contract Address Details
 
-*Contract deployment information will be added here after mainnet deployment*
-
+Contract ID:
+ST2Z4JPK0WPANVMFV0HQNHZCKHJ0AJSV2SY7NBKJ7.GuildManagementDAO
+![alt text](image.png)
 **Testnet Contract Address**: `[To be added]`
 **Mainnet Contract Address**: `[To be added]`
 **Contract Name**: `guild-management-dao`
@@ -68,5 +69,3 @@ We envision a future where every gaming guild operates as a decentralized autono
 - **Contract Version**: v1.0.0
 
 ---
-
-*Built with ❤️ for the gaming community on Stacks blockchain*

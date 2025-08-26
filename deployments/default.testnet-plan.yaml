@@ -11,7 +11,7 @@ plan:
         - contract-publish:
             contract-name: GuildManagementDAO
             expected-sender: ST2Z4JPK0WPANVMFV0HQNHZCKHJ0AJSV2SY7NBKJ7
-            cost: 6129899
+            cost: 59350
             path: "contracts\\GuildManagementDAO.clar"
             anchor-block-only: true
             clarity-version: 3
